@@ -1,11 +1,19 @@
 Título (30)
 ===========
+Manantiales y Fuentes de Andalucía
 
 Descripción breve (80)
 ======================
+Aplicación desarrollada para la difusión a través de dispositivos móviles de los Manantiales y Fuentes de Andalucía.
 
 Descripción completa (4000)
 ===========================
+Los MANANTIALES Y FUENTES DE ANDALUCÍA constituyen un valioso patrimonio ambiental, socio-económico y cultural.
+
+Conscientes de su importancia y vulnerabilidad, desde la Junta de Andalucía se está acometiendo una serie de niciativas para su conservación, recuperación y puesta en valor.
+
+Una de las primeras fases de trabajo consiste en hacer un catálogo-inventario de los manantiales y fuentes de Andalucía. Para ello, se ha puesto en marcha el proyecto participativo “CONOCE TU FUENTES”, que desarrolla la Universidad de Granada con la colaboración de otras instituciones, entre ellas, el  Instituto Geológico y Minero de España. 
+
 
 Etiquetas	
 ===========
@@ -18,7 +26,10 @@ Versión inicial
 
 Sitio web
 =========
+http://www.conocetusfuentes.com
 
 Correo electrónico
 ==================
+l-dirsigc@juntadeandalucia.es
+
 
