@@ -2,11 +2,11 @@ var iframeMapa;
 
 var app = {
     initialize: function() {
+        document.title = nAplicacion;
         this.bindEvents();
     },
     bindEvents: function() {
-        document.addEventListener("deviceready", this.onDeviceReady, true);
-       
+        document.addEventListener("deviceready", this.onDeviceReady, true);       
     },
     onDeviceReady: function() {
 	//console.log("Ready!");
@@ -23,7 +23,6 @@ var app = {
 };
 
 function setMap(pos) {
-	var prj25830 ="+proj=utm +zone=30 +ellps=GRS80 +units=m +no_defs";
 	posProj = proj4(prj25830,[pos.coords.longitude,pos.coords.latitude]);
 	iframeMapa.src = configMap() + "&zoom=10&center="+posProj[0]+","+posProj[1]; 
 }
